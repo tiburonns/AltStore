@@ -1,0 +1,201 @@
+{
+  "name": "tiburonns Apps",
+  "identifier": "io.github.tiburonns.altstore",
+  "subtitle": "Aplicaciones iOS de tiburonns",
+  "description": "Fuente oficial de AltStore para las aplicaciones iOS de tiburonns. Las IPAs se distribuyen desde los releases de sus repositorios originales.",
+  "website": "https://github.com/tiburonns/AltStore",
+  "sourceURL": "https://raw.githubusercontent.com/tiburonns/AltStore/main/source.json",
+  "tintColor": "#0A84FF",
+  "apps": [
+    {
+      "name": "CapturePilot",
+      "bundleIdentifier": "com.tiburonns.CapturePilot",
+      "developerName": "tiburonns",
+      "subtitle": "Monitoreo fotográfico profesional",
+      "localizedDescription": "Herramientas de captura fotográfica para iPhone y iPad, con scopes profesionales, histograma RGB, zebras, asistencia de composición, LUTs y Coach opcional.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/CapturePilot/main/Design/AppIcon-Source.png",
+      "tintColor": "#0A84FF",
+      "category": "photo",
+      "versions": [
+        {
+          "version": "0.9.3",
+          "buildVersion": "12",
+          "date": "2026-10-06T20:15:12Z",
+          "downloadURL": "https://github.com/tiburonns/CapturePilot/releases/download/altstore-0.9.3-12-2/CapturePilot.ipa",
+          "size": 2370606,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "PowerMesh",
+      "bundleIdentifier": "com.tiburonns.PowerMesh",
+      "developerName": "tiburonns",
+      "subtitle": "Estado y control de accesorios",
+      "localizedDescription": "Supervisa el estado de batería de accesorios compatibles mediante Bluetooth y ofrece una experiencia complementaria para iPhone, iPad, Mac y Apple Watch.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/PowerMesh/main/PowerMesh/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "#0A84FF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "buildVersion": "14",
+          "date": "2026-10-06T20:13:06Z",
+          "downloadURL": "https://github.com/tiburonns/PowerMesh/releases/download/altstore-0.2.0-14-2/PowerMesh.ipa",
+          "size": 4490850,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "StandSpace",
+      "bundleIdentifier": "com.tiburonns.StandSpace",
+      "developerName": "tiburonns",
+      "subtitle": "Dashboard modular para tu escritorio",
+      "localizedDescription": "Dashboard personalizable con módulos para información y herramientas de uso diario, diseñado para organizar una vista rápida y configurable.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/StandSpace/main/StandSpace/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "#5856D6",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.4.3",
+          "buildVersion": "9",
+          "date": "2026-10-06T20:09:25Z",
+          "downloadURL": "https://github.com/tiburonns/StandSpace/releases/download/altstore-0.4.3-9-2/StandSpace.ipa",
+          "size": 2961882,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Phone Dock",
+      "bundleIdentifier": "io.cocoalift.mobile",
+      "developerName": "tiburonns",
+      "subtitle": "Tu Dock personal para Mac y Windows",
+      "localizedDescription": "Controla tu Mac o PC Windows desde el iPhone o iPad en la misma red local. Personaliza acciones, iconos y paletas. Necesita la app compañera Phone Dock abierta en el ordenador.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/Phone-dock/main/Resources/Brand/PhoneDock/AppIcon-Source.png",
+      "tintColor": "#6650D8",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.3.3",
+          "buildVersion": "5",
+          "date": "2026-09-12T03:50:00Z",
+          "downloadURL": "https://github.com/tiburonns/Phone-dock/releases/download/v0.3.3/PhoneDock-0.3.3.ipa",
+          "size": 3159087,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Islemetry",
+      "bundleIdentifier": "com.tiburonns.islemetry",
+      "developerName": "tiburonns",
+      "subtitle": "Telemetría local en la Isla Dinámica",
+      "localizedDescription": "Consulta métricas del iPhone sin cuentas ni nube y elige qué datos mostrar en la Live Activity, la pantalla bloqueada y la Isla Dinámica.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/Islemetry/main/Islemetry/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "#14C8F5",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.2.1",
+          "buildVersion": "3",
+          "date": "2026-09-12T03:50:07Z",
+          "downloadURL": "https://github.com/tiburonns/Islemetry/releases/download/v0.2.1/Islemetry-0.2.1.ipa",
+          "size": 1612402,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "Byway",
+      "bundleIdentifier": "com.tiburonns.byway",
+      "developerName": "tiburonns",
+      "subtitle": "Datos persistentes para Apple Shortcuts",
+      "localizedDescription": "Capa de datos privada y tipada para Apple Shortcuts. Permite almacenar variables compartidas, historial, navegación, estacionamiento, música, Home y estado del sistema en el dispositivo.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/byway/main/Xcode/byway/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-512.png",
+      "tintColor": "#0A84FF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.5.0",
+          "buildVersion": "5",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/tiburonns/byway/releases/download/v0.5.0/Byway-0.5.0.ipa",
+          "size": 797006,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "OmniPulse",
+      "bundleIdentifier": "com.tiburonns.OmniPulse",
+      "developerName": "tiburonns",
+      "subtitle": "Escaneo BLE y levantamientos Wi-Fi autorizados",
+      "localizedDescription": "Registra señales Bluetooth, analiza redes Wi-Fi mediante sensores ESP compatibles y conserva observaciones, proyectos, mapas e informes de forma local.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/OmniPulse/main/OmniPulse/Resources/Assets.xcassets/AppIcon.appiconset/OmniPulse-1024.png",
+      "tintColor": "#2979FF",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "buildVersion": "4",
+          "date": "2026-09-12T03:58:24Z",
+          "downloadURL": "https://github.com/tiburonns/OmniPulse/releases/download/v1.2.0/OmniPulse-AltStore-v1.2.0.ipa",
+          "size": 5735574,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "NFCove",
+      "bundleIdentifier": "com.tiburonns.NFCove",
+      "developerName": "tiburonns",
+      "subtitle": "Lectura y biblioteca NFC",
+      "localizedDescription": "Lee etiquetas NFC, construye registros NDEF y conserva las etiquetas escaneadas en una biblioteca local para consultarlas y presentarlas posteriormente.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/NFCove/main/NFCove/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
+      "tintColor": "#FF9500",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.4.0",
+          "buildVersion": "8",
+          "date": "2026-10-06T20:14:57Z",
+          "downloadURL": "https://github.com/tiburonns/NFCove/releases/download/altstore-0.4.0-8-2/NFCove-unsigned.ipa",
+          "size": 1608492,
+          "minOSVersion": "17.0"
+        }
+      ]
+    },
+    {
+      "name": "DisplayMesh",
+      "bundleIdentifier": "com.tiburonns.DisplayMesh.Receiver",
+      "developerName": "tiburonns",
+      "subtitle": "Convierte tu iPhone o iPad en pantalla externa",
+      "localizedDescription": "Receptor iOS para DisplayMesh. Se conecta a un host compatible mediante la red local para funcionar como pantalla externa con transporte seguro y adaptación de calidad.",
+      "iconURL": "https://raw.githubusercontent.com/tiburonns/DisplayMesh/main/Design/AppIcon-Source.png",
+      "tintColor": "#5856D6",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "0.2.3",
+          "buildVersion": "3",
+          "date": "2026-10-06T20:08:43Z",
+          "downloadURL": "https://github.com/tiburonns/DisplayMesh/releases/download/altstore-0.2.3-3-2/DisplayMesh.ipa",
+          "size": 4325682,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "LiDARForge está en preparación",
+      "identifier": "lidarforge-pending-2026-10",
+      "caption": "La aplicación está lista en el repositorio, pero su pipeline de IPA todavía requiere corrección antes de publicarla en AltStore.",
+      "date": "2026-10-07",
+      "tintColor": "#FF9500",
+      "notify": false
+    }
+  ]
+}
